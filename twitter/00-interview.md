@@ -26,7 +26,6 @@ Si el numero promedio de tweets por dia es de **10x10^6**, el numero de de likes
 - Se espera un tiempo de respuesta casi inmediato, podemos decir unos cientos de milisegundos.
 
 
-
 ## Ahora sabemos
 - 10 Millones de usuarios.
 - 10 Millones de tweets diarios.
@@ -40,7 +39,7 @@ Ahora podemos avanzar con el diseñom de alto nivel.
 
 
 
-
+  
 
 
 
